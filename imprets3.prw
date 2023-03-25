@@ -1,6 +1,6 @@
 #Include "totvs.ch"
 //-------------------------------------------------------------------
-/*/{Protheus.doc} function
+/*/{Protheus..doc} function
 Exercício 6- para imprimir as informações em tela com sua soma
 @author  Anderson Abreu Rabelo
 @since   24/03/2023
